@@ -76,11 +76,10 @@
     - ✅ HackerRank 04 - Select By ID
     -     Topics Used: SELECT and WHERE.
 
+## Day 17 (03-08-2026)
+    - ✅ LeetCode 607 - Sales Person
+    -     Topics Used: LEFT JOIN, GROUP BY, HAVING, COALESCE() and SUM().
 
-
-
-
-
-
-
+    - ✅ HackerRank 05 - Japanese Cities' Attributes
+    -     Topics Used: SELECT and WHERE.
 
