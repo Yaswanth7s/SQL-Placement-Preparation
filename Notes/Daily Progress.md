@@ -83,3 +83,10 @@
     - ✅ HackerRank 05 - Japanese Cities' Attributes
     -     Topics Used: SELECT and WHERE.
 
+## Day 18 (04-08-2026)
+    - ✅ LeetCode 1280 - Students and Examinations
+    -     Topics Used: CROSS JOIN, LEFT JOIN, GROUP BY, ORDER BY and COUNT().
+
+    - ✅ HackerRank 06 - Japanese Cities' Names
+    -     Topics Used: SELECT and WHERE.
+
