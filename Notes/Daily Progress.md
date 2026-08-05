@@ -90,3 +90,10 @@
     - ✅ HackerRank 06 - Japanese Cities' Names
     -     Topics Used: SELECT and WHERE.
 
+## Day 19 (05-08-2026)
+    - ✅ LeetCode 619 - Biggest Single Number
+    -     Topics Used: SubQuery( Derived Table), GROUP BY, HAVING, COUNT() and MAX().
+
+    - ✅ HackerRank 07 - Weather Observation Station 1
+    -     Topics Used: SELECT.
+
