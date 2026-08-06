@@ -97,3 +97,10 @@
     - ✅ HackerRank 07 - Weather Observation Station 1
     -     Topics Used: SELECT.
 
+## Day 20 (06-08-2026)
+    - ✅ LeetCode 1693 - Daily Leads and Partners
+    -     Topics Used: COUNT(), DISTINCT and GROUP BY
+
+    - ✅ HackerRank 08 - Weather Observation Station 3
+    -     Topics Used: SELECT, DISTINCT, WHERE, MOD().
+
