@@ -104,3 +104,10 @@
     - ✅ HackerRank 08 - Weather Observation Station 3
     -     Topics Used: SELECT, DISTINCT, WHERE, MOD().
 
+## Day 21 (07-08-2026)
+    - ✅ LeetCode 1251 - Average Selling Price
+    -     Topics Used: COALESCE(), ROUND(), SUM(), LEFT JOIN, BETWEEN and GROUP BY
+
+    - ✅ HackerRank 09 - Weather Observation Station 4
+    -     Topics Used: SELECT, COUNT() and DISTINCT.
+
