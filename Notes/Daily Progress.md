@@ -111,3 +111,10 @@
     - ✅ HackerRank 09 - Weather Observation Station 4
     -     Topics Used: SELECT, COUNT() and DISTINCT.
 
+## Day 22 (08-08-2026)
+    - ✅ LeetCode 1757 - Recyclable and Low Fat Products
+    -     Topics Used: SELECT, WHERE and AND
+
+    - ✅ HackerRank 10 - Weather Observation Station 5
+    -     Topics Used: SELECT, LENGTH(), ORDER BY and LIMIT.
+
