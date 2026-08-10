@@ -118,3 +118,17 @@
     - ✅ HackerRank 10 - Weather Observation Station 5
     -     Topics Used: SELECT, LENGTH(), ORDER BY and LIMIT.
 
+## Day 23 (09-08-2026)
+    - ✅ LeetCode 1667 - Fix Names in a Table
+    -     Topics Used: SELECT, CONCAT(), UPPER(), LOWER(), SUBSTRING() and ORDER BY
+
+    - ✅ HackerRank 11 - Weather Observation Station 6
+    -     Topics Used: SELECT, DISTINCT, WHERE, LIKE and OR.
+
+## Day 24 (10-08-2026)
+    - ✅ LeetCode 196 - Delete Duplicate Emails
+    -     Topics Used: DELETE, JOIN and WHERE
+
+    - ✅ HackerRank 12 - Weather Observation Station 7
+    -     Topics Used: SELECT, DISTINCT, WHERE, LIKE and OR.
+
