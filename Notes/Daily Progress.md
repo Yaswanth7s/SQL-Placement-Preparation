@@ -132,3 +132,10 @@
     - ✅ HackerRank 12 - Weather Observation Station 7
     -     Topics Used: SELECT, DISTINCT, WHERE, LIKE and OR.
 
+## Day 25 (11-08-2026)
+    - ✅ LeetCode 1407 - Top Travellers
+    -     Topics Used: SELECT, COALESCE(), SUM(), LEFT JOIN, GROUP BY and ORDER BY
+
+    - ✅ HackerRank 13 - Weather Observation Station 8
+    -     Topics Used: SELECT, DISTINCT, WHERE, LIKE, OR and AND.
+
