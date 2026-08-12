@@ -139,3 +139,10 @@
     - ✅ HackerRank 13 - Weather Observation Station 8
     -     Topics Used: SELECT, DISTINCT, WHERE, LIKE, OR and AND.
 
+## Day 26 (12-08-2026)
+    - ✅ LeetCode 1527 - Patients With a Condition
+    -     Topics Used: SELECT, WHERE, LIKE or OR
+
+    - ✅ HackerRank 14 - Weather Observation Station 9
+    -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE and AND.
+
