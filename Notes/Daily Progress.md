@@ -146,3 +146,11 @@
     - ✅ HackerRank 14 - Weather Observation Station 9
     -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE and AND.
 
+## Day 27 (13-08-2026)
+    - ✅ LeetCode 1731 - The Number of Employees Which Report to Each Employee
+    -     Topics Used: SELECT, COUNT(), ROUND(), AVG(), SELF JOIN, WHERE, IS NOT NULL, GROUP BY,
+                       ORDER BY
+
+    - ✅ HackerRank 15 - Weather Observation Station 10
+    -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE and AND.
+
