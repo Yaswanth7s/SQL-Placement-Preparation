@@ -154,3 +154,10 @@
     - ✅ HackerRank 15 - Weather Observation Station 10
     -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE and AND.
 
+## Day 28 (14-08-2026)
+    - ✅ LeetCode 1890 - The Latest Login in 2020
+    -     Topics Used: SELECT, MAX(), WHERE, YEAR() and GROUP BY
+
+    - ✅ HackerRank 16 - Weather Observation Station 11
+    -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE, AND and OR.
+
