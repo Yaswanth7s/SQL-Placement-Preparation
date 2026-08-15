@@ -161,3 +161,10 @@
     - ✅ HackerRank 16 - Weather Observation Station 11
     -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE, AND and OR.
 
+## Day 29 (15-08-2026)
+    - ✅ LeetCode 1795 - Rearrange Products Table
+    -     Topics Used: SELECT, WHERE, IS NOT NULL and UNION ALL
+
+    - ✅ HackerRank 17 - Weather Observation Station 12
+    -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE and AND.
+
