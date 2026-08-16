@@ -168,3 +168,10 @@
     - ✅ HackerRank 17 - Weather Observation Station 12
     -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE and AND.
 
+## Day 30 (16-08-2026)
+    - ✅ LeetCode 183 - Customers Who Never Order
+    -     Topics Used: SELECT, WHERE, LEFT JOIN and IS NULL
+
+    - ✅ HackerRank 18 - Higher Than 75 Marks
+    -     Topics Used: SELECT, WHERE, ORDER BY and RIGHT().
+
