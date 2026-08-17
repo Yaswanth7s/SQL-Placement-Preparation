@@ -175,3 +175,10 @@
     - ✅ HackerRank 18 - Higher Than 75 Marks
     -     Topics Used: SELECT, WHERE, ORDER BY and RIGHT().
 
+## Day 31 (17-08-2026)
+    - ✅ LeetCode 1045 - Customers Who Bought All Products
+    -     Topics Used: SELECT, GROUP BY, HAVING, COUNT() and DISTINCT
+
+    - ✅ HackerRank 19 - Employee Names
+    -     Topics Used: SELECT and ORDER BY.
+
