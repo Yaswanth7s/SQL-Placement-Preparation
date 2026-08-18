@@ -182,3 +182,10 @@
     - ✅ HackerRank 19 - Employee Names
     -     Topics Used: SELECT and ORDER BY.
 
+## Day 32 (18-08-2026)
+    - ✅ LeetCode 627 - Swap Sex of Employees
+    -     Topics Used: UPDATE and onditional Logic (CASE WHEN/IF)
+
+    - ✅ HackerRank 20 - Employee Salaries
+    -     Topics Used: SELECT, WHERE, AND and ORDER BY.
+
