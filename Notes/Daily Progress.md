@@ -189,3 +189,10 @@
     - ✅ HackerRank 20 - Employee Salaries
     -     Topics Used: SELECT, WHERE, AND and ORDER BY.
 
+## Day 33 (19-08-2026)
+    - ✅ LeetCode 1158 - Market Analysis I
+    -     Topics Used: SELECT, COUNT(), Conditional Logic (CASE WHEN/IF), LEFT JOIN and GROUP BY
+
+    - ✅ HackerRank 21 - Type of Triangle
+    -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF), AND and OR.
+
