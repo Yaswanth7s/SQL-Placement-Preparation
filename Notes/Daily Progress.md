@@ -99,49 +99,49 @@
 
 ## Day 20 (06-08-2026)
     - ✅ LeetCode 1693 - Daily Leads and Partners
-    -     Topics Used: COUNT(), DISTINCT and GROUP BY
+    -     Topics Used: COUNT(), DISTINCT and GROUP BY.
 
     - ✅ HackerRank 08 - Weather Observation Station 3
     -     Topics Used: SELECT, DISTINCT, WHERE, MOD().
 
 ## Day 21 (07-08-2026)
     - ✅ LeetCode 1251 - Average Selling Price
-    -     Topics Used: COALESCE(), ROUND(), SUM(), LEFT JOIN, BETWEEN and GROUP BY
+    -     Topics Used: COALESCE(), ROUND(), SUM(), LEFT JOIN, BETWEEN and GROUP BY.
 
     - ✅ HackerRank 09 - Weather Observation Station 4
     -     Topics Used: SELECT, COUNT() and DISTINCT.
 
 ## Day 22 (08-08-2026)
     - ✅ LeetCode 1757 - Recyclable and Low Fat Products
-    -     Topics Used: SELECT, WHERE and AND
+    -     Topics Used: SELECT, WHERE and AND.
 
     - ✅ HackerRank 10 - Weather Observation Station 5
     -     Topics Used: SELECT, LENGTH(), ORDER BY and LIMIT.
 
 ## Day 23 (09-08-2026)
     - ✅ LeetCode 1667 - Fix Names in a Table
-    -     Topics Used: SELECT, CONCAT(), UPPER(), LOWER(), SUBSTRING() and ORDER BY
+    -     Topics Used: SELECT, CONCAT(), UPPER(), LOWER(), SUBSTRING() and ORDER BY.
 
     - ✅ HackerRank 11 - Weather Observation Station 6
     -     Topics Used: SELECT, DISTINCT, WHERE, LIKE and OR.
 
 ## Day 24 (10-08-2026)
     - ✅ LeetCode 196 - Delete Duplicate Emails
-    -     Topics Used: DELETE, JOIN and WHERE
+    -     Topics Used: DELETE, JOIN and WHERE.
 
     - ✅ HackerRank 12 - Weather Observation Station 7
     -     Topics Used: SELECT, DISTINCT, WHERE, LIKE and OR.
 
 ## Day 25 (11-08-2026)
     - ✅ LeetCode 1407 - Top Travellers
-    -     Topics Used: SELECT, COALESCE(), SUM(), LEFT JOIN, GROUP BY and ORDER BY
+    -     Topics Used: SELECT, COALESCE(), SUM(), LEFT JOIN, GROUP BY and ORDER BY.
 
     - ✅ HackerRank 13 - Weather Observation Station 8
     -     Topics Used: SELECT, DISTINCT, WHERE, LIKE, OR and AND.
 
 ## Day 26 (12-08-2026)
     - ✅ LeetCode 1527 - Patients With a Condition
-    -     Topics Used: SELECT, WHERE, LIKE or OR
+    -     Topics Used: SELECT, WHERE, LIKE or OR.
 
     - ✅ HackerRank 14 - Weather Observation Station 9
     -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE and AND.
@@ -149,50 +149,57 @@
 ## Day 27 (13-08-2026)
     - ✅ LeetCode 1731 - The Number of Employees Which Report to Each Employee
     -     Topics Used: SELECT, COUNT(), ROUND(), AVG(), SELF JOIN, WHERE, IS NOT NULL, GROUP BY,
-                       ORDER BY
+                       ORDER BY.
 
     - ✅ HackerRank 15 - Weather Observation Station 10
     -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE and AND.
 
 ## Day 28 (14-08-2026)
     - ✅ LeetCode 1890 - The Latest Login in 2020
-    -     Topics Used: SELECT, MAX(), WHERE, YEAR() and GROUP BY
+    -     Topics Used: SELECT, MAX(), WHERE, YEAR() and GROUP BY.
 
     - ✅ HackerRank 16 - Weather Observation Station 11
     -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE, AND and OR.
 
 ## Day 29 (15-08-2026)
     - ✅ LeetCode 1795 - Rearrange Products Table
-    -     Topics Used: SELECT, WHERE, IS NOT NULL and UNION ALL
+    -     Topics Used: SELECT, WHERE, IS NOT NULL and UNION ALL.
 
     - ✅ HackerRank 17 - Weather Observation Station 12
     -     Topics Used: SELECT, DISTINCT, WHERE, NOT LIKE and AND.
 
 ## Day 30 (16-08-2026)
     - ✅ LeetCode 183 - Customers Who Never Order
-    -     Topics Used: SELECT, WHERE, LEFT JOIN and IS NULL
+    -     Topics Used: SELECT, WHERE, LEFT JOIN and IS NULL.
 
     - ✅ HackerRank 18 - Higher Than 75 Marks
     -     Topics Used: SELECT, WHERE, ORDER BY and RIGHT().
 
 ## Day 31 (17-08-2026)
     - ✅ LeetCode 1045 - Customers Who Bought All Products
-    -     Topics Used: SELECT, GROUP BY, HAVING, COUNT() and DISTINCT
+    -     Topics Used: SELECT, GROUP BY, HAVING, COUNT() and DISTINCT.
 
     - ✅ HackerRank 19 - Employee Names
     -     Topics Used: SELECT and ORDER BY.
 
 ## Day 32 (18-08-2026)
     - ✅ LeetCode 627 - Swap Sex of Employees
-    -     Topics Used: UPDATE and onditional Logic (CASE WHEN/IF)
+    -     Topics Used: UPDATE and onditional Logic (CASE WHEN/IF).
 
     - ✅ HackerRank 20 - Employee Salaries
     -     Topics Used: SELECT, WHERE, AND and ORDER BY.
 
 ## Day 33 (19-08-2026)
     - ✅ LeetCode 1158 - Market Analysis I
-    -     Topics Used: SELECT, COUNT(), Conditional Logic (CASE WHEN/IF), LEFT JOIN and GROUP BY
+    -     Topics Used: SELECT, COUNT(), Conditional Logic (CASE WHEN/IF), LEFT JOIN and GROUP BY.
 
     - ✅ HackerRank 21 - Type of Triangle
     -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF), AND and OR.
+
+## Day 34 (20-08-2026)
+    - ✅ LeetCode 1050 - Actors and Directors Who Cooperated At Least Three Times
+    -     Topics Used: SELECT, GROUP BY, HAVING and COUNT().
+
+    - ✅ HackerRank 22 - The PADS
+    -     Topics Used: SELECT, CONCAT(), LEFT(), ORDER BY, COUNT(), LOWER() and GROUP BY.
 
