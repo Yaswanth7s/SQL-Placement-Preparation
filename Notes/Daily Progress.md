@@ -203,3 +203,10 @@
     - ✅ HackerRank 22 - The PADS
     -     Topics Used: SELECT, CONCAT(), LEFT(), ORDER BY, COUNT(), LOWER() and GROUP BY.
 
+## Day 35 (21-08-2026)
+    - ✅ LeetCode 1393 - Capital Gain/Loss
+    -     Topics Used: SELECT, SUM(), Conditional Logic (CASE WHEN/IF) and GROUP BY.
+
+    - ✅ HackerRank 23 - Revising Aggregations - The Count Function
+    -     Topics Used: SELECT, COUNT() and WHERE.
+
