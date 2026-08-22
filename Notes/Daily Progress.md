@@ -210,3 +210,10 @@
     - ✅ HackerRank 23 - Revising Aggregations - The Count Function
     -     Topics Used: SELECT, COUNT() and WHERE.
 
+## Day 36 (22-08-2026)
+    - ✅ LeetCode 1741 - Find Total Time Spent by Each Employee
+    -     Topics Used: SELECT, SUM() and GROUP BY.
+
+    - ✅ HackerRank 24 - Revising Aggregations - The Sum Function
+    -     Topics Used: SELECT, SUM() and WHERE.
+
