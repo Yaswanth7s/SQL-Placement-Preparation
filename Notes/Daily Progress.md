@@ -217,3 +217,11 @@
     - ✅ HackerRank 24 - Revising Aggregations - The Sum Function
     -     Topics Used: SELECT, SUM() and WHERE.
 
+## Day 37 (23-08-2026)
+    - ✅ LeetCode 1633 - Percentage of Users Attended a Contest
+    -     Topics Used: SELECT, ROUND(), COUNT(), Subquery, INNER JOIN, GROUP BY, ORDER BY and 
+                       GROUP BY.
+
+    - ✅ HackerRank 25 - Revising Aggregations - Averages
+    -     Topics Used: SELECT, AVG() and WHERE.
+
