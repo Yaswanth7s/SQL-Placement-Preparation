@@ -219,9 +219,15 @@
 
 ## Day 37 (23-08-2026)
     - ✅ LeetCode 1633 - Percentage of Users Attended a Contest
-    -     Topics Used: SELECT, ROUND(), COUNT(), Subquery, INNER JOIN, GROUP BY, ORDER BY and 
-                       GROUP BY.
+    -     Topics Used: SELECT, ROUND(), COUNT(), Subquery, INNER JOIN, ORDER BY and GROUP BY.
 
     - ✅ HackerRank 25 - Revising Aggregations - Averages
     -     Topics Used: SELECT, AVG() and WHERE.
+
+## Day 38 (24-08-2026)
+    - ✅ LeetCode 1204 - Last Person to Fit in the Bus
+    -     Topics Used: SELECT, Subquery, Window Function (SUM() OVER()), WHERE, ORDER BY and LIMIT.
+
+    - ✅ HackerRank 26 - Average Population
+    -     Topics Used: SELECT, AVG() and ROUND().
 
