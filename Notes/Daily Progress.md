@@ -231,3 +231,10 @@
     - ✅ HackerRank 26 - Average Population
     -     Topics Used: SELECT, AVG() and ROUND().
 
+## Day 38 (24-08-2026)
+    - ✅ LeetCode 570 - Managers with at Least 5 Direct Reports
+    -     Topics Used: SELECT, Subquery, COUNT(), INNER JOIN, GROUP BY and HAVING.
+
+    - ✅ HackerRank 27 - Japan Population
+    -     Topics Used: SELECT, SUM() and WHERE.
+
