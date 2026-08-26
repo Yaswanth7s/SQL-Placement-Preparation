@@ -232,9 +232,9 @@
     -     Topics Used: SELECT, AVG() and ROUND().
 
 ## Day 38 (24-08-2026)
-    - ✅ LeetCode 570 - Managers with at Least 5 Direct Reports
-    -     Topics Used: SELECT, Subquery, COUNT(), INNER JOIN, GROUP BY and HAVING.
+    - ✅ LeetCode 1517 - Find Users With Valid E-Mails
+    -     Topics Used: SELECT, WHERE and REGEXP_LIKE().
 
-    - ✅ HackerRank 27 - Japan Population
-    -     Topics Used: SELECT, SUM() and WHERE.
+    - ✅ HackerRank 28 - Population Density Difference
+    -     Topics Used: SELECT, MAX() and MIN().
 
