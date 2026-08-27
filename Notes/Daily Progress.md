@@ -226,15 +226,30 @@
 
 ## Day 38 (24-08-2026)
     - ✅ LeetCode 1204 - Last Person to Fit in the Bus
-    -     Topics Used: SELECT, Subquery, Window Function (SUM() OVER()), WHERE, ORDER BY and LIMIT.
+    -     Topics Used: SELECT, Subquery, Window Function (SUM() OVER()), WHERE, ORDER BY and
+                        LIMIT.
 
     - ✅ HackerRank 26 - Average Population
     -     Topics Used: SELECT, AVG() and ROUND().
 
-## Day 38 (24-08-2026)
+## Day 39 (25-08-2026)
+    - ✅ LeetCode 1204 - Managers with at Least 5 Direct Reports
+    -     Topics Used: SELECT, Subquery, COUNT(), INNER JOIN, GROUP BY and HAVING.
+
+    - ✅ HackerRank 27 - Average Population
+    -     Topics Used: SELECT, AVG() and ROUND().
+
+## Day 40 (26-08-2026)
     - ✅ LeetCode 1517 - Find Users With Valid E-Mails
     -     Topics Used: SELECT, WHERE and REGEXP_LIKE().
 
     - ✅ HackerRank 28 - Population Density Difference
     -     Topics Used: SELECT, MAX() and MIN().
 
+## Day 41 (27-08-2026)
+    - ✅ LeetCode 1661 - Average Time of Process per Machine
+    -     Topics Used: SELECT, ROUND(), AVG(), Subquery, MAX(), Conditional Logic (CASE WHEN/IF) 
+                       and GROUP BY.
+
+    - ✅ HackerRank 29 - Top Earners
+    -     Topics Used: SELECT, MAX(), COUNT(), Subquery and WHERE.
