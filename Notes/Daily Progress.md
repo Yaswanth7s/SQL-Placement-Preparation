@@ -253,3 +253,10 @@
 
     - ✅ HackerRank 29 - Top Earners
     -     Topics Used: SELECT, MAX(), COUNT(), Subquery and WHERE.
+
+## Day 42 (28-08-2026)
+    - ✅ LeetCode 1084 - Sales Analysis III 
+    -     Topics Used: SELECT, JOIN, GROUP BY, HAVING, MIN() and MAX().
+
+    - ✅ HackerRank 30 - Weather Observation Station 2
+    -     Topics Used: SELECT, CONCAT(), Subquery, ROUND() and SUM().
