@@ -260,3 +260,10 @@
 
     - ✅ HackerRank 30 - Weather Observation Station 2
     -     Topics Used: SELECT, CONCAT(), Subquery, ROUND() and SUM().
+
+## Day 43 (29-08-2026)
+    - ✅ LeetCode 1174 - Immediate Food Delivery II
+    -     Topics Used: SELECT, ROUND(), SUM(), COUNT(), Subquery, MIN(), GROUP BY, JOIN and AND.
+
+    - ✅ HackerRank 31 - Weather Observation Station 13
+    -     Topics Used: SELECT, ROUND(), SUM(), WHERE, BETWEEN and AND.
