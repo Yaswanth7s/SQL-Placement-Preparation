@@ -267,3 +267,11 @@
 
     - ✅ HackerRank 31 - Weather Observation Station 13
     -     Topics Used: SELECT, ROUND(), SUM(), WHERE, BETWEEN and AND.
+
+## Day 44 (30-08-2026)
+    - ✅ LeetCode 1193 - Monthly Transactions I
+    -     Topics Used: SELECT, DATE_FORMAT(), COUNT(), SUM(), Conditional Logic (CASE WHEN/IF), 
+                       GROUP BY.
+
+    - ✅ HackerRank 32 - Weather Observation Station 14
+    -     Topics Used: SELECT, ROUND(), SUM(), MAX() and WHERE.
