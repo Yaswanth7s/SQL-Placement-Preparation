@@ -275,3 +275,11 @@
 
     - ✅ HackerRank 32 - Weather Observation Station 14
     -     Topics Used: SELECT, ROUND(), SUM(), MAX() and WHERE.
+
+## Day 45 (31-08-2026)
+    - ✅ LeetCode 1321 - Restaurant Growth
+    -     Topics Used: SELECT, ROUND(), Subquery, Window Functions(ROW_NUMBER, SUM(), AVG()), 
+                       ORDER BY, GROUP BY and WHERE.
+
+    - ✅ HackerRank 33 - Weather Observation Station 15
+    -     Topics Used: SELECT, ROUND(), JOIN, MAX(), and WHERE.

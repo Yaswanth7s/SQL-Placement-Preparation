@@ -1,0 +1,10 @@
+SELECT
+    ROUND(s.LONG_W,4)
+FROM STATION s
+JOIN(
+    SELECT
+        MAX(LAT_N) AS largest
+    FROM STATION
+    WHERE LAT_N < 137.2345
+)t
+ON s.LAT_N=t.largest;
