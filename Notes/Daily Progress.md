@@ -283,3 +283,11 @@
 
     - ✅ HackerRank 33 - Weather Observation Station 15
     -     Topics Used: SELECT, ROUND(), JOIN, MAX(), and WHERE.
+
+## Day 46 (01-09-2026)
+    - ✅ LeetCode 1341 - Movie Rating
+    -     Topics Used: SELECT, JOIN, GROUP BY, ORDER BY, COUNT(), LIMIT, UNION ALL, WHERE, AND and
+                       AVG() .
+
+    - ✅ HackerRank 34 - Weather Observation Station 16
+    -     Topics Used: SELECT, ROUND(), MIN(), and WHERE.
