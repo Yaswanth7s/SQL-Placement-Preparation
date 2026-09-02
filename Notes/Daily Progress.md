@@ -291,3 +291,10 @@
 
     - ✅ HackerRank 34 - Weather Observation Station 16
     -     Topics Used: SELECT, ROUND(), MIN(), and WHERE.
+
+## Day 47 (02-09-2026)
+    - ✅ LeetCode 1070 - Product Sales Analysis III
+    -     Topics Used: SELECT, JOIN, MIN(), GROUP BY and WHERE.
+
+    - ✅ HackerRank 35 - Weather Observation Station 17
+    -     Topics Used: SELECT, ROUND(), JOIN, MIN(), and WHERE.
