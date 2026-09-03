@@ -298,3 +298,10 @@
 
     - ✅ HackerRank 35 - Weather Observation Station 17
     -     Topics Used: SELECT, ROUND(), JOIN, MIN(), and WHERE.
+
+## Day 48 (03-09-2026)
+    - ✅ LeetCode 1075 - Project Employees I
+    -     Topics Used: SELECT, ROUND(), AVG(), INNER JOIN and GROUP BY.
+
+    - ✅ HackerRank 36 - Weather Observation Station 18
+    -     Topics Used: SELECT, ROUND(), ABS(), Subquery, MIN(), and MAX().
