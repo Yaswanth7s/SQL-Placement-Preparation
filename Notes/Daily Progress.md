@@ -305,3 +305,17 @@
 
     - ✅ HackerRank 36 - Weather Observation Station 18
     -     Topics Used: SELECT, ROUND(), ABS(), Subquery, MIN(), and MAX().
+
+## Day 49 (04-09-2026)
+    - ✅ LeetCode 177 - Nth Highest Salary
+    -     Topics Used: SELECT, DISTINCT, ORDER BY, LIMIT, OFFSET and SET.
+
+    - ✅ HackerRank 37 - Weather Observation Station 19
+    -     Topics Used: SELECT, ROUND(), SQRT(), POW(), Subquery, MIN(), and MAX().
+
+## Day 50 (05-09-2026)
+    - ✅ LeetCode 176 - Second Highest Salary
+    -     Topics Used: SELECT, Subquery, DISTINCT, ORDER BY, LIMIT and OFFSET.
+
+    - ✅ HackerRank 38 - Population Census
+    -     Topics Used: SELECT, SUM(), JOIN and WHERE.
