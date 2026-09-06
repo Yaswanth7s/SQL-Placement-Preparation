@@ -319,3 +319,10 @@
 
     - ✅ HackerRank 38 - Population Census
     -     Topics Used: SELECT, SUM(), JOIN and WHERE.
+
+## Day 51 (06-09-2026)
+    - ✅ LeetCode 185 - Department Top Three Salaries
+    -     Topics Used: SELECT, Subquery, Window Function(DENSE_RANK), LEFT JOIN and WHERE.
+
+    - ✅ HackerRank 39 - African Cities
+    -     Topics Used: SELECT, LEFT JOIN and WHERE.
