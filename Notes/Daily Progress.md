@@ -326,3 +326,10 @@
 
     - ✅ HackerRank 39 - African Cities
     -     Topics Used: SELECT, LEFT JOIN and WHERE.
+
+## Day 52 (07-09-2026)
+    - ✅ LeetCode 1141 - User Activity for the Past 30 Days I
+    -     Topics Used: SELECT, COUNT(), WHERE, BETWEEN, AND and GROUP BY.
+
+    - ✅ HackerRank 40 - Average Population of Each Continent
+    -     Topics Used: SELECT, FLOOR(), AVG(), JOIN and GROUP BY.
