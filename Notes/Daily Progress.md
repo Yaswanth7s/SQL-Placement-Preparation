@@ -333,3 +333,10 @@
 
     - ✅ HackerRank 40 - Average Population of Each Continent
     -     Topics Used: SELECT, FLOOR(), AVG(), JOIN and GROUP BY.
+
+## Day 53 (08-09-2026)
+    - ✅ LeetCode 1211 - Queries Quality and Percentage
+    -     Topics Used: SELECT, ROUND(), AVG(), Conditional Logic (CASE WHEN/IF) and GROUP BY.
+
+    - ✅ HackerRank 41 - The Blunder
+    -     Topics Used: SELECT, CEIL(), AVG(), CAST() and REPLACE().
