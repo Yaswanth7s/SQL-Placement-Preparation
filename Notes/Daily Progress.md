@@ -340,3 +340,11 @@
 
     - ✅ HackerRank 41 - The Blunder
     -     Topics Used: SELECT, CEIL(), AVG(), CAST() and REPLACE().
+
+
+## Day 54 (09-09-2026)
+    - ✅ LeetCode 1327 - List the Products Ordered in a Period
+    -     Topics Used: SELECT, SUM(), INNER JOIN, WHERE, BETWEEEN, AND, GROUP BY and HAVING.
+
+    - ✅ HackerRank 42 - Binary Tree Nodes
+    -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF) and ORDER BY.
