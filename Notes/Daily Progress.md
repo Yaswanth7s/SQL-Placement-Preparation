@@ -348,3 +348,11 @@
 
     - ✅ HackerRank 42 - Binary Tree Nodes
     -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF) and ORDER BY.
+
+
+## Day 55 (10-09-2026)
+    - ✅ LeetCode 181 - Employees Earning More Than Their Managers
+    -     Topics Used: SELECT, SELF JOIN and WHERE.
+
+    - ✅ HackerRank 43 - New Companies
+    -     Topics Used: SELECT, COUNT(), DISTINCT, LEFT JOIN, GROUP BY and ORDER BY.
