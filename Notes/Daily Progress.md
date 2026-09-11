@@ -356,3 +356,11 @@
 
     - ✅ HackerRank 43 - New Companies
     -     Topics Used: SELECT, COUNT(), DISTINCT, LEFT JOIN, GROUP BY and ORDER BY.
+
+## Day 56 (11-09-2026)
+    - ✅ LeetCode 1978 - Employees Whose Manager Left the Company
+    -     Topics Used: SELECT, LEFT JOIN, WHERE, AND, IS NOT NULL, IS NULL and ORDER BY.
+
+    - ✅ HackerRank 44 - Weather Observation Station 20
+    -     Topics Used: SELECT, ROUND(), AVG(), Subquery, Window Functions(ROW_NUMBER, ORDER BY), 
+                       COUNT() and WHERE.
