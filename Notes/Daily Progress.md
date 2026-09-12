@@ -364,3 +364,10 @@
     - ✅ HackerRank 44 - Weather Observation Station 20
     -     Topics Used: SELECT, ROUND(), AVG(), Subquery, Window Functions(ROW_NUMBER, ORDER BY), 
                        COUNT() and WHERE.
+
+## Day 57 (12-09-2026)
+    - ✅ LeetCode 180 - Consecutive Numbers
+    -     Topics Used: SELECT, DISTINCT, Window Functions(LEAD(), ORDER BY), WHERE and AND.
+
+    - ✅ HackerRank 45 - The Report
+    -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF) and ORDER BY.
