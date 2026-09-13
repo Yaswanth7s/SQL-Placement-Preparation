@@ -371,3 +371,10 @@
 
     - ✅ HackerRank 45 - The Report
     -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF) and ORDER BY.
+
+## Day 58 (13-09-2026)
+    - ✅ LeetCode 178 - Rank Scores
+    -     Topics Used: SELECT and Window Functions(DENSE_RANK(), ORDER BY).
+
+    - ✅ HackerRank 46 - Top Competitors
+    -     Topics Used: SELECT, INNER JOIN, WHERE, GROUP BY, HAVING, COUNT, DISTINCT and ORDER BY.
