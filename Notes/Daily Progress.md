@@ -378,3 +378,11 @@
 
     - ✅ HackerRank 46 - Top Competitors
     -     Topics Used: SELECT, INNER JOIN, WHERE, GROUP BY, HAVING, COUNT, DISTINCT and ORDER BY.
+
+## Day 59 (14-09-2026)
+    - ✅ LeetCode 182 - Duplicate Emails
+    -     Topics Used: SELECT, GROUP BY, HAVING and COUNT().
+
+    - ✅ HackerRank 47 - Challenges
+    -     Topics Used: SELECT, COUNT(), LEFT JOIN, GROUP BY, HAVING, Subquery, MAX(), IN, and 
+                       ORDER BY.
