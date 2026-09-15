@@ -386,3 +386,10 @@
     - ✅ HackerRank 47 - Challenges
     -     Topics Used: SELECT, COUNT(), LEFT JOIN, GROUP BY, HAVING, Subquery, MAX(), IN, and 
                        ORDER BY.
+
+## Day 60 (15-09-2026)
+    - ✅ LeetCode 608 - Tree Node
+    -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF), IS NULL and IN.
+
+    - ✅ HackerRank 48 - Contest Leaderboard
+    -     Topics Used: SELECT, SUM(), JOIN, Subquery, MAX(), GROUP BY, HAVING and ORDER BY.
