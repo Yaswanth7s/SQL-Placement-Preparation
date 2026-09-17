@@ -393,3 +393,7 @@
 
     - ✅ HackerRank 48 - Contest Leaderboard
     -     Topics Used: SELECT, SUM(), JOIN, Subquery, MAX(), GROUP BY, HAVING and ORDER BY.
+
+## Day 61 (17-09-2026)
+    - ✅ LeetCode 2356 - Number of Unique Subjects Taught by Each Teacher
+    -     Topics Used: SELECT, Count(), DISTINCT and GROUP BY.
