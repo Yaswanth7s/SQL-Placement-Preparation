@@ -397,3 +397,8 @@
 ## Day 61 (17-09-2026)
     - ✅ LeetCode 2356 - Number of Unique Subjects Taught by Each Teacher
     -     Topics Used: SELECT, Count(), DISTINCT and GROUP BY.
+
+## Day 62 (18-09-2026)
+    - ✅ LeetCode 197 - Rising Temperature
+    -     Topics Used: SELECT, Subquery, Window Functions(LAG(), ORDER BY), WHERE, AND and 
+                       DATEDIFF()
