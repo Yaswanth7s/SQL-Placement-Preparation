@@ -402,3 +402,7 @@
     - ✅ LeetCode 197 - Rising Temperature
     -     Topics Used: SELECT, Subquery, Window Functions(LAG(), ORDER BY), WHERE, AND and 
                        DATEDIFF()
+
+## Day 63 (19-09-2026)
+    - ✅ LeetCode 1587 - Bank Account Summary II
+    -     Topics Used: SELECT, Subquery, SUM(), INNER JOIN, GROUP BY and WHERE.
