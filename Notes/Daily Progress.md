@@ -406,3 +406,7 @@
 ## Day 63 (19-09-2026)
     - ✅ LeetCode 1587 - Bank Account Summary II
     -     Topics Used: SELECT, Subquery, SUM(), INNER JOIN, GROUP BY and WHERE.
+
+## Day 64 (20-09-2026)
+    - ✅ LeetCode 1965 - Employees With Missing Information
+    -     Topics Used: SELECT, LEFT JOIN, WHERE, IS NULL, UNION, RIGHT JOIN and ORDER BY.
