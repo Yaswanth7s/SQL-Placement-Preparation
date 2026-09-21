@@ -410,3 +410,7 @@
 ## Day 64 (20-09-2026)
     - ✅ LeetCode 1965 - Employees With Missing Information
     -     Topics Used: SELECT, LEFT JOIN, WHERE, IS NULL, UNION, RIGHT JOIN and ORDER BY.
+
+## Day 65 (20-09-2026)
+    - ✅ LeetCode 626 - Exchange Seats
+    -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF), AND, Subquery and ORDER BY
