@@ -401,7 +401,7 @@
 ## Day 62 (18-09-2026)
     - ✅ LeetCode 197 - Rising Temperature
     -     Topics Used: SELECT, Subquery, Window Functions(LAG(), ORDER BY), WHERE, AND and 
-                       DATEDIFF()
+                       DATEDIFF().
 
 ## Day 63 (19-09-2026)
     - ✅ LeetCode 1587 - Bank Account Summary II
@@ -411,6 +411,10 @@
     - ✅ LeetCode 1965 - Employees With Missing Information
     -     Topics Used: SELECT, LEFT JOIN, WHERE, IS NULL, UNION, RIGHT JOIN and ORDER BY.
 
-## Day 65 (20-09-2026)
+## Day 65 (21-09-2026)
     - ✅ LeetCode 626 - Exchange Seats
-    -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF), AND, Subquery and ORDER BY
+    -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF), AND, Subquery and ORDER BY.
+
+## Day 66 (22-09-2026)
+    - ✅ LeetCode 1789 - Primary Department for Each Employee
+    -     Topics Used: SELECT, WHERE, UNION, GROUP BY, HAVING and COUNT().
