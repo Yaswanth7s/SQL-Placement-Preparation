@@ -418,3 +418,7 @@
 ## Day 66 (22-09-2026)
     - ✅ LeetCode 1789 - Primary Department for Each Employee
     -     Topics Used: SELECT, WHERE, UNION, GROUP BY, HAVING and COUNT().
+
+## Day 67 (23-09-2026)
+    - ✅ LeetCode 610 - Triangle Judgement
+    -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF) and AND.
