@@ -422,3 +422,7 @@
 ## Day 67 (23-09-2026)
     - ✅ LeetCode 610 - Triangle Judgement
     -     Topics Used: SELECT, Conditional Logic (CASE WHEN/IF) and AND.
+
+## Day 68 (25-09-2026)
+    - ✅ LeetCode 1179 - Reformat Department Table
+    -     Topics Used: SELECT, MAX, Conditional Logic (CASE WHEN/IF) and GROUP BY.
