@@ -426,3 +426,7 @@
 ## Day 68 (25-09-2026)
     - ✅ LeetCode 1179 - Reformat Department Table
     -     Topics Used: SELECT, MAX, Conditional Logic (CASE WHEN/IF) and GROUP BY.
+
+## Day 69 (26-09-2026)
+    - ✅ LeetCode 1907 - Count Salary Categories
+    -     Topics Used: SELECT, COUNT(), Conditional Logic (CASE WHEN/IF) and UNION ALL.
